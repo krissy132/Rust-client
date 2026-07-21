@@ -1,0 +1,7 @@
+[00:00:02.057] (6448) INFO   attempting to get a message from prepared buf: 
+<comMessage>
+  <joined roomId="bfdda5d6-6abf-404e-8398-9d4c722e8e08"/></comMessage>
+[00:00:02.057] (6448) INFO   receiving successful: 
+ReceivedComMessage { left: [], joined: [ReceivedJoined { room_id: Some("bfdda5d6-6abf-404e-8398-9d4c722e8e08") }], room: [], admin_prepared: [] }
+[00:00:02.058] (6448) INFO   retrieving saved messages: 1
+[00:00:02.059] (291c) INFO   joined room bfdda5d6-6abf-404e-8398-9d4c722e8e08

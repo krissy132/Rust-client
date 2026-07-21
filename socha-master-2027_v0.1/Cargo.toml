@@ -1,0 +1,22 @@
+[package]
+name = "socha"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Communication layer for the Software-Challenge Germany 2027 (Blokus)"
+repository = "https://github.com/krissy/rust-client-2027"
+
+[dependencies]
+strong-xml = "0.6.3"
+simple-logging = "2.0.2"
+log = "0.4.28"
+crossbeam-channel = "0.5.15"
+rand = "0.9.2"
+
+[features]
+
+[[example]]
+name = "random_bot"
+
+[[example]]
+name = "nnue_bot"
