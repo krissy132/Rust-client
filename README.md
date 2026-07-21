@@ -1,6 +1,7 @@
 # Architecture Overview
 
 > ⚠️ **Hinweis:** Dieses Dokument wurde mithilfe von KI (Künstlicher Intelligenz) erstellt.
+
 > ⚠️ **Hinweis:** Dieses Dokument wurde auf Basis von Simoncreates Rust-CLient 2026 erstellt.
 
 ## Project layout
